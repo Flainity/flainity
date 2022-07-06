@@ -11,6 +11,7 @@ My name is Daniel Engelke currently working as **Shopware Fullstack Developer @ 
 
 ---
 
+- 🥔 German Potato
 - 🔭 Currently working as **Shopware Fullstack Developer @ Wellnest**
 - 🤔 Intensively learning C++
 - 👯 Open to collaborate in Open Source projects
