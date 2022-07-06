@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there! I'm Flainity</h3>
+<h3 align="center">👋 Hi there! I'm Flainity</h3><h5 align="center">aka. Kiara, Visionaire</h5>
 <p align="center">
   <a href="https://www.flainity.de">Website</a> •
   <a href="https://twitter.com/flainity">Twitter</a> •
