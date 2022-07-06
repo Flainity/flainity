@@ -1,16 +1,22 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Flainity</h3>
+<p align="center">
+  <a href="https://www.flainity.de">Website</a> •
+  <a href="https://twitter.com/flainity">Twitter</a> •
+  <a href="https://www.twitch.tv/flainity">Twitch</a>
+</p>
 
-<!--
-**Flainity/flainity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+My name is Daniel Engelke currently working as **Shopware Fullstack Developer @ Wellnest**. I am an experienced **Symfony Fullstack Developer**, but am also skilled in other PHP Frameworks, as well as in C#, C++, SQL, VueJS and Lua.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🔭 Currently working as **Shopware Fullstack Developer @ Wellnest**
+- 🤔 Intensively learning C++
+- 👯 Open to collaborate in Open Source projects
+- 💬 Always open to help regarding development questions
+- ⚡ Fun fact: _I'm a little workaholic_
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flainity&layout=compact&theme=dark&hide_border=true)
