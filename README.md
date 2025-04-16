@@ -16,7 +16,6 @@ My name is Daniel Engelke currently working as **Symfony Fullstack Developer @ W
 - 🤔 Intensively learning C++
 - 👯 Open to collaborate in Open Source projects
 - 💬 Always open to help regarding development questions
-- ⚡ Fun fact: _I'm a little workaholic_
 
 ---
 
