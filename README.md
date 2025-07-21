@@ -7,7 +7,7 @@
 
 ----
 
-My name is Daniel Engelke currently working as **Symfony Fullstack Developer @ Wellnest**. I am an experienced **Symfony Fullstack Developer**, but am also skilled in other PHP Frameworks, as well as in C#, SQL, VueJS and Lua. Currently I'm expanding my knowledge in C++ and Reverse engineering a game called Fiesta Online.
+My name is Daniel Engelke, previously working as **Symfony Fullstack Developer @ Wellnest**, currently unemployed. I am an experienced **Symfony Fullstack Developer**, but am also skilled in other PHP Frameworks, as well as in C#, SQL, VueJS and Lua. Currently I'm expanding my knowledge in C++ and Reverse engineering a game called Fiesta Online.
 
 ---
 
