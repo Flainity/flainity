@@ -12,7 +12,7 @@ My name is Daniel Engelke, previously working as **Symfony Fullstack Developer @
 ---
 
 - 🥔 German Potato
-- 🔭 Currently working as **Shopware Fullstack Developer @ Wellnest**
+- 🔭 Previously working as **Symfony Fullstack Developer @ Wellnest**
 - 🤔 Intensively learning C++
 - 👯 Open to collaborate in Open Source projects
 - 💬 Always open to help regarding development questions
